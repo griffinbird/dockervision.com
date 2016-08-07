@@ -1,0 +1,44 @@
+baseurl = "http://dockervision.com"
+languageCode = "en-us"
+title = "Docker Vision"
+theme = "hugo-redlounge"
+
+[params]
+sidebartitle = "Docker Vision"
+sidebartagline = "About all things containers"
+sidebarphoto = "/img/logo.jpg"
+categoriescss = "/css/categories.css"
+authorlink = "https://au.linkedin.com/in/bengriffin1"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+
+[[menu.main]]
+name = "Blog"
+url = "/post"
+
+[[menu.social]]
+pre = "<i class='fa fa-twitter'></i>"
+url = "_blank"
+identifier = "twitter"
+
+[[menu.social]]
+pre = "<i class='fa fa-linkedin'></i>"
+url = "_blank"
+identifier = "linkedin"
+
+[[menu.social]]
+pre = "<i class='fa fa-phone'></i>"
+url = "_blank"
+identifier = "phone"
+
+[[menu.social]]
+pre = "<i class='fa fa-rss'></i>"
+url = "_blank"
+identifier = "rss"
+
+[[menu.social]]
+pre = "<i class='fa fa-github'></i>"
+url = "_blank"
+identifier = "github"
