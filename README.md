@@ -1,2 +1,1 @@
-# hugo
-Website
+# Hugo powered website for my blog
